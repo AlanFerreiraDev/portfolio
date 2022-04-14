@@ -29,11 +29,6 @@ export default createGlobalStyle`
     font: 400 1rem 'Montserrat', sans-serif;
   }
 
-  img {
-    width: 100%;
-    max-width: 100%;
-  }
-
   ul {
     list-style: none;
   }
